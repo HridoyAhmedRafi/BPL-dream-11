@@ -1,0 +1,75 @@
+[
+  {
+    "playerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Rashid_Khan.jpg",
+    "playerName": "Rashid Khan",
+    "origin": "Afghanistan",
+    "playerType": "Bowling",
+    "style": "Right-arm leg break",
+    "price": 200
+  },
+  {
+    "playerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Warner.jpg",
+    "playerName": "David Warner",
+    "origin": "Australia",
+    "playerType": "Batting",
+    "style": "Left-hand batsman",
+    "price": 400
+  },
+  {
+    "playerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Trent_Boult.jpg",
+    "playerName": "Trent Boult",
+    "origin": "New Zealand",
+    "playerType": "Bowling",
+    "style": "Left-arm fast",
+    "price": 300
+  },
+  {
+    "playerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Kane_Williamson.jpg",
+    "playerName": "Kane Williamson",
+    "origin": "New Zealand",
+    "playerType": "Batting",
+    "style": "Right-hand batsman",
+    "price": 250
+  },
+  {
+    "playerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Pat_Cummins.jpg",
+    "playerName": "Pat Cummins",
+    "origin": "Australia",
+    "playerType": "Bowling",
+    "style": "Right-arm fast",
+    "price": 100
+  },
+  {
+    "playerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos_Buttler_2017.jpg",
+    "playerName": "Jos Buttler",
+    "origin": "England",
+    "playerType": "Batting",
+    "style": "Right-hand batsman",
+    "price": 300
+  },
+
+  {
+    "playerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Ben_Stokes.jpg",
+    "playerName": "Ben Stokes",
+    "origin": "England",
+    "playerType": "Batting",
+    "style": "Left-hand batsman",
+    "price": 200
+  },
+  {
+    "playerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Shaheen_Afridi.jpg",
+    "playerName": "Shaheen Afridi",
+    "origin": "Pakistan",
+    "playerType": "Bowling",
+    "style": "Left-arm fast",
+    "price": 400
+  },
+  {
+    "playerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Shakib_Al_Hasan_(4)_(cropped).jpg",
+    "playerName": "Shakib Al Hasan",
+    "origin": "Bangladesh",
+    "playerType": "Bowling",
+    "style": "Left-arm orthodox",
+    "price": 50
+  }
+]
