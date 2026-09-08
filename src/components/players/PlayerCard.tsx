@@ -1,3 +1,4 @@
+// player card
 import { FaFlag, FaUser } from "react-icons/fa";
 
 import type { playerType } from "../../types/PlayerType";
@@ -31,8 +32,7 @@ const PlayerCard = ({
     }
 
     // selected players
-    setSelectedPlayers([...selectedPlayers, player])
-
+    setSelectedPlayers([...selectedPlayers, player]);
   };
 
   return (
