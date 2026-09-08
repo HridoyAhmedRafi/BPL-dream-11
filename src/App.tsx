@@ -5,7 +5,6 @@ import Navber from "./components/Navber";
 import Players from "./components/players/Players";
 import type { playerType } from "./types/PlayerType";
 
-
 const PlayersPromiseFetch = async (): Promise<playerType[]> => {
   const res = await fetch("/data.json");
   const data = await res.json();
@@ -13,13 +12,10 @@ const PlayersPromiseFetch = async (): Promise<playerType[]> => {
 };
 const PlayersPromise = PlayersPromiseFetch();
 
-
-
 function App() {
   const [coin, setCoin] = useState(1000);
   return (
     <>
-    
       <Navber coin={coin}></Navber>
       <Hero></Hero>
       <Suspense
