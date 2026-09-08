@@ -1,3 +1,4 @@
+// selected players card
 import { FaTrash } from "react-icons/fa";
 import type { playerType } from "../../types/PlayerType";
 import type { Dispatch, SetStateAction } from "react";
