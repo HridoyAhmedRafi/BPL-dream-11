@@ -13,6 +13,8 @@ const PlayersPromiseFetch = async (): Promise<playerType[]> => {
 };
 const PlayersPromise = PlayersPromiseFetch();
 
+
+
 function App() {
   const [coin, setCoin] = useState(1000);
   return (
