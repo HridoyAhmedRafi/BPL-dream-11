@@ -1,3 +1,4 @@
+// hero section
 import HeroBg from "../assets/bg-shadow.png";
 import HeroLogo from "../assets/banner-main.png";
 
