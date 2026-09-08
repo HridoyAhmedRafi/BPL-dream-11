@@ -1,3 +1,4 @@
+// available players
 import type { Dispatch, SetStateAction } from "react";
 import type { playerType } from "../../types/PlayerType";
 import PlayerCard from "./PlayerCard";
