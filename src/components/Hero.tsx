@@ -20,7 +20,7 @@ const Hero = () => {
           </p>
           <button className="relative rounded-2xl border border-[#e2f929] p-1 font-sans transition-transform active:scale-95">
             <span className="block rounded-xl bg-[#e2f929] px-8 py-3 text-base font-bold text-black shadow-inner">
-              Claim Free Credit
+              <a href="">Claim Free Credit</a>
             </span>
           </button>
         </div>
