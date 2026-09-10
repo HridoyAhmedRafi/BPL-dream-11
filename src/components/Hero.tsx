@@ -11,7 +11,7 @@ const Hero = () => {
         style={{ backgroundImage: `url(${HeroBg})` }}
       >
         <div className="space-y-3">
-          <img src={HeroLogo} alt="" className="mx-auto " />
+          <img src={HeroLogo} alt="" className=" mx-auto " />
           <h1 className="text-[40px] text-white font-bold">
             Assemble Your Ultimate Dream 11 Cricket Team
           </h1>
