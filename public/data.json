@@ -57,7 +57,7 @@
     "price": 200
   },
   {
-    "playerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Shaheen_Afridi.jpg",
+    "playerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Shaheen_Shah_Afridi_vs_Sri_Lanka_2023_second_Test_(cropped_1).jpg",
     "playerName": "Shaheen Afridi",
     "origin": "Pakistan",
     "playerType": "Bowling",
@@ -65,11 +65,11 @@
     "price": 400
   },
   {
-    "playerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Shakib_Al_Hasan_(4)_(cropped).jpg",
-    "playerName": "Shakib Al Hasan",
-    "origin": "Bangladesh",
-    "playerType": "Bowling",
-    "style": "Left-arm orthodox",
+    "playerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/M%20Rizwan.jpg",
+    "playerName": "Mohammad Rizwan",
+    "origin": "Pakistan",
+    "playerType": "Batsman",
+    "style": "Right-handed batsman",
     "price": 50
   }
 ]
