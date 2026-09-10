@@ -24,7 +24,7 @@
     "price": 300
   },
   {
-    "playerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Kane_Williamson.jpg",
+    "playerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Kane%20Williamson%20in%20Cricket%20World%20Cup%202019.jpg",
     "playerName": "Kane Williamson",
     "origin": "New Zealand",
     "playerType": "Batting",
@@ -32,7 +32,7 @@
     "price": 250
   },
   {
-    "playerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Pat_Cummins.jpg",
+    "playerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Cummins%20fielding%20Ashes%202021.jpg",
     "playerName": "Pat Cummins",
     "origin": "Australia",
     "playerType": "Bowling",
@@ -40,7 +40,7 @@
     "price": 100
   },
   {
-    "playerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos_Buttler_2017.jpg",
+    "playerImage": "https://commons.wikimedia.org/wiki/Special:FilePath/England%20vs.%20New%20Zealand%202015%20%2829%29.jpg",
     "playerName": "Jos Buttler",
     "origin": "England",
     "playerType": "Batting",
