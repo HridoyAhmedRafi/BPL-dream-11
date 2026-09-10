@@ -9,18 +9,10 @@ const Navber = ({ coin }: { coin: number }) => {
         <img src={Logo} alt="" />
 
         <ul className="flex items-center justify-between gap-4">
-          <li>
-            <a href="">Home</a>
-          </li>
-          <li>
-            <a href="">Fixture</a>
-          </li>
-          <li>
-            <a href="">Teams</a>
-          </li>
-          <li>
-            <a href="">Schedules</a>
-          </li>
+          <li className="cursor-pointer">Home</li>
+          <li className="cursor-pointer">Fixture</li>
+          <li className="cursor-pointer">Teams</li>
+          <li className="cursor-pointer">Schedules</li>
           <div className="flex items-center justify-between gap-2 border border-[#a39d9d] rounded-xl py-1 px-2">
             <span className="font-bold">{coin} Coin</span>{" "}
             <AiFillDollarCircle className="text-[23px] text-[#f5b03b]" />
